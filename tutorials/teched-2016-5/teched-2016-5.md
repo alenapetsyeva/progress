@@ -24,10 +24,11 @@ Now that you have set up a Destination in the HANA Cloud Platform (HCP) cockpit,
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
  [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
- test
+ test ghjghgh
  
-[DONE]
+ [DONE]
  [ACCORDION-END]
+ 
  [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
 
  [DONE]
