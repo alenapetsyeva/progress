@@ -26,7 +26,7 @@ Now that you have set up a Destination in the HANA Cloud Platform (HCP) cockpit,
  [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
  test
  
- [DONE]
+[DONE]
  [ACCORDION-END]
  [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
 
